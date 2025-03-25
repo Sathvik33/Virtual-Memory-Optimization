@@ -1,0 +1,8 @@
+0 Virtual address: 1 Physical address: 1 Value: 0
+1 Virtual address: 2 Physical address: 2 Value: 0
+2 Virtual address: 3 Physical address: 3 Value: 0
+3 Virtual address: 4 Physical address: 4 Value: 0
+4 Virtual address: 1 Physical address: 1 Value: 0
+5 Virtual address: 2 Physical address: 2 Value: 0
+6 Virtual address: 5 Physical address: 5 Value: 0
+7 Virtual address: 6 Physical address: 6 Value: 0

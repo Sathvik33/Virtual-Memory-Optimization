@@ -124,7 +124,7 @@ Ensure all dependencies are installed using:
 
 pip install matplotlib
 
-If the UI does not display properly, ensure you're using a supported Python version (3.x).
+If the UI does not display properly, ensure you're using a supported Python version (3.4).
 
 License
 

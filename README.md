@@ -26,7 +26,7 @@ Prerequisites
 
 Ensure you have the following installed:
 
-Python 3.x
+Python 3.4
 
 Required libraries: tkinter, matplotlib
 

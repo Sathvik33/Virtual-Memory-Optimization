@@ -133,6 +133,3 @@ This project is open-source and available under the MIT License.
 Contributions
 
 Contributions and improvements are welcome! Feel free to submit pull requests or report issues.
-
-Author
-Sathvik
